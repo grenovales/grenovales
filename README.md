@@ -29,11 +29,6 @@
 
 <br/>  
 
-<img src="https://activity-graph.herokuapp.com/graph?username=grenovales&bg_color=ffffff&color=2f80ed&line=2f80ed&point=2f80ed&hide_border=true" align="left" height="" width="100%" />  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
